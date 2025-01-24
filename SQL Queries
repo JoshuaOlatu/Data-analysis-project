@@ -1,4 +1,5 @@
 Creating the table 
+
 CREATE TABLE GlowAndFlow (
     Retailer VARCHAR(50),
     RetailerID INT,
@@ -20,12 +21,14 @@ CREATE TABLE GlowAndFlow (
 
 
 Fetch all data from the table 
+
 SELECT *
 FROM GlowAndFlow;
 
 
 
 Calculate the total profit for all records:
+
 SELECT SUM(TotalProfit) AS TotalProfitSum
 FROM GlowAndFlow;
 
@@ -33,6 +36,7 @@ FROM GlowAndFlow;
 
 
 Find records where the Profit Margin is above 50%:
+
 SELECT * 
 FROM GlowAndFlow
 WHERE ProfitMargin > 50;
@@ -41,6 +45,7 @@ WHERE ProfitMargin > 50;
 
 
 Retrieve sales data for a specific retailer (Walmart):
+
 SELECT * 
 FROM GlowAndFlow
 WHERE Retailer = 'Walmart';
@@ -49,6 +54,7 @@ WHERE Retailer = 'Walmart';
 
  
 Get the total units sold and revenue by region:
+
 SELECT Region, SUM(UnitsSold) AS TotalUnitsSold, SUM(TotalSales) AS TotalRevenue
 FROM GlowAndFlow
 GROUP BY Region;
@@ -57,6 +63,7 @@ GROUP BY Region;
 
 
  Total Revenue by Product Name
+
 SELECT 
     ProductName, 
     SUM(TotalSales) AS TotalRevenue
@@ -71,6 +78,7 @@ ORDER BY
 
 
 Top 5 Best Selling Products
+
 SELECT 
     ProductName, 
     SUM(UnitsSold) AS TotalUnitsSold
@@ -86,6 +94,7 @@ LIMIT 5;
 
 
 Total Revenue for Each Product Per Year Starting from 2020
+
 SELECT 
     ProductName, 
     YEAR(InvoiceDate) AS Year, 
