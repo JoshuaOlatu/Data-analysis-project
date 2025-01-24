@@ -18,6 +18,7 @@ This project provides an in-depth supply chain data analysis of the beauty compa
       Slicers to filter data by year, region, product, and retailer.
 
       Detailed visualizations to track supply chain performance.
+      
       Please click the #1 comment below to view the dashboard screenshot
 https://github.com/JoshuaOlatu/Data-analysis-project/issues/1#issue-2808566136
 
