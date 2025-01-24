@@ -34,7 +34,7 @@ https://github.com/JoshuaOlatu/Data-analysis-project/issues/2#issue-2808567538
       A well-structured database schema for efficient data storage.
 
       SQL queries to extract and analyze key supply chain metrics.
-      
+https://github.com/JoshuaOlatu/Data-analysis-project/blob/main/SQL%20Queries      
                                                                 
 ## Supply Chain Insights. This project aligns with supply chain objectives by providing detailed analysis and visualization to support decision-making, such as:
 
