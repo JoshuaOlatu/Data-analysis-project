@@ -1,4 +1,4 @@
-# Data-Dashboards-and-SQL
+# Project Overview
 This project provides an in-depth supply chain data analysis of the beauty company "Glow and Flow" (Mock company & data) to evaluate how its sales have evolved post-COVID to date and opportunity to improve supply chain. The analysis investigates performance at multiple levels, including product lines, retailers, and regional distribution. By leveraging data visualization tools and SQL-based querying, the project offers actionable insights that enhances decision making in supply chain.  
 
 # Key Features
