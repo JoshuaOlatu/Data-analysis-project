@@ -63,17 +63,22 @@ Understanding historical sales trends will help forecast the future sales and ad
 
 ## 2. Improving Supply Chain Efficiency
 Inventory Management: Metrics like units sold and total sales helps to identify overstocked or understocked items, leading to better inventory planning and reduced carrying costs.
+
 Regional Performance: Analyzing by region, state, and city highlights geographical trends. This will help the team optimize warehouse locations, shipping routes, and logistics to meet regional demand more efficiently.
+
 Product-Level Insights: Looking at the product name and sales data will identify underperforming or overperforming SKUs, allowing for better production and distribution planning.
 
 ## 3. Cost and Profitability Analysis
 Cost of Goods Sold (COGS): Comparing total sales to COGS reveals profitability for each product, retailer, or region. If COGS for certain products has increased disproportionately, the supply chain team will investigate rising raw material, labor, or logistics costs.
+
 Profit Margin Trends: Profit margins can indicate whether pricing strategies, production efficiencies, or supply chain optimizations are working. Post-COVID supply chain disruptions (e.g., higher freight costs) may have compressed margins, and this data can highlight opportunities to recover them.
 
 ## 4. Retailer and Customer Insights
 Retailer Performance: Evaluating sales and profit margins by retailer helps identify high-performing partners or retailers that require attention due to lower sales or profitability.
+
 Customer Trends: Insights into what products are selling well and where they are selling will help tailor supply chain strategies to meet customer preferences.
 
 ## 5. Risk and Opportunity Analysis
 Risk Identification: Identifying regions or products with declining sales reveals risks such as weakening demand or increased competition.
+
 Opportunities: Conversely, identifying high-demand regions or products enables the team to allocate resources strategically, such as increasing production or expanding capacity for popular items.
