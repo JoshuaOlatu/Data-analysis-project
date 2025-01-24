@@ -38,7 +38,7 @@ https://github.com/JoshuaOlatu/Data-analysis-project/issues/2#issue-2808567538
 
       SQL queries to extract and analyze key supply chain metrics.
 
-      click on the link below to have a look at differen SQL queries to pull data that could enhance supply chain optimization 
+      click on the link below to have a look at differetn SQL queries to pull data that could enhance supply chain optimization 
 https://github.com/JoshuaOlatu/Data-analysis-project/blob/main/SQL%20Queries      
                                                                 
 ## Supply Chain Insights. This project aligns with supply chain objectives by providing detailed analysis and visualization to support decision-making, such as:
