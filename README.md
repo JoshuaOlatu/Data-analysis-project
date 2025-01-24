@@ -51,14 +51,6 @@ https://github.com/JoshuaOlatu/Data-analysis-project/blob/main/SQL%20Queries
 
       Regional Strategy: Highlight regions with declining sales for strategic intervention or marketing efforts.
 
-Example metrics and insights include:
-
-      Sell-through rates for each product line and retailer.
-
-      Regional demand variability for optimized distribution.
-
-      Contribution margins to prioritize high-profit product lines.
-
                                                              
 
 # Detailed explanations of findings and insights. Here are a List of actionable insights that were drawn from this project
