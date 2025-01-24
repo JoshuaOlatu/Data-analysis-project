@@ -65,12 +65,14 @@ Documentation: Detailed explanations of findings and insights. How to Use
     Ability to see how the slicers can make dashboard interactive and filter data based on desired criteria (year, region, product, retailer).
 
     Analyze trends and identify supply chain bottlenecks.
+https://github.com/JoshuaOlatu/Data-analysis-project/issues/1#issue-2808566136
 
 ## Power BI Reports:
 
       Open the provided Power BI file.
 
       Explore interactive visualizations and insights.
+https://github.com/JoshuaOlatu/Data-analysis-project/issues/2#issue-2808567538
 
 ## Database Queries:
 
